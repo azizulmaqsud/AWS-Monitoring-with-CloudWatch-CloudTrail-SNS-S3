@@ -1,4 +1,4 @@
-# Monitor-AWS-with-CloudWatch-CloudTrail-SNS-S3
+# Monitoring AWS Resources
 - How you can generate a customized alarm and that alarm can be notified using an email along with using the AWS SNS Service?
 - How the automated email is sent to a particular user or a particular subscriber when there is a particular event that happens in the AWS?
 - And, how those events have been tracked in conjunction with using Amazon Cloud trail and Amazon CloudWatch?
